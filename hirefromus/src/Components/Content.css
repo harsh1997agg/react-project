@@ -1,0 +1,153 @@
+@media screen and (min-width: 850px)
+{
+
+
+.untapped-div{
+    /* background-color: pink; */
+
+      width: 633px;
+      height: 242px;
+      
+      position: relative;
+     /* margin-top: 213px; */
+     margin-top: 12%;
+
+}
+
+.untapped-gif{
+   background-color: #3F3F40;
+   position:relative ;
+   right:90px; 
+   z-index:-1;
+   margin-top: 8%;
+  
+   height: 380px;
+    /* margin-bottom: -8%; */
+   border-radius: 10px;
+}
+
+.untapped-div p{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 56px;
+/* or 100% */
+
+letter-spacing: -0.08em;
+color: #FFFFFF;
+}
+
+.untapped-div > p > span{
+ 
+color: #FDBA2F;
+}
+
+.reason-div{
+    width: 1059px;
+height: 47px;
+position: relative;
+/* margin-top: 213px; */
+margin-top: 12%;
+
+}
+
+.reason-div p{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 38px;
+/* or 136% */
+
+letter-spacing: -0.0428em;
+
+color: #FFFFFF;
+}
+
+
+
+
+.reason-div > p> span{
+ 
+    color: #FDBA2F;
+    }
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 849px){
+
+
+    .untapped-div{
+        /* background-color: pink; */
+    
+      
+          
+          position: relative;
+         /* margin-top: 213px; */
+         margin-top: 10%;
+    
+    }
+    .untapped-div p{
+        font-family: 'DM Sans';
+        font-style: normal;
+font-weight: 700;
+/* font-size: 36px;
+line-height: 36px; */
+/* or 100% */
+font-size: 27px;
+line-height: 30px;
+
+letter-spacing: -0.07em;
+
+color: #FFFFFF;
+    }
+
+    .untapped-div > p > span{
+ 
+        color: #FDBA2F;
+        }
+
+
+        .reason-div{
+            /* width: 1059px; */
+            height: 110px;
+        position: relative;
+        /* margin-top: 213px; */
+        margin-top: 10%;
+        
+        }
+        
+        .reason-div p{
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 20px;
+            /* or 93% */
+            
+            letter-spacing: -0.0528em;
+            
+            /* color: #FDBA2F; */
+        
+        color: #FFFFFF;
+        }
+        
+        
+        
+        
+        .reason-div > p> span{
+         
+            color: #FDBA2F;
+            }
+        
+
+}
+
+

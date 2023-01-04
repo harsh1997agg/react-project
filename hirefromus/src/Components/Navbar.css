@@ -1,0 +1,22 @@
+.navbarDiv{
+    background-color: white;
+  }
+  .navbarDiv :hover{
+  background-color: black;
+  }
+  .navbarDiv:hover .navbar-light .navbar-nav .nav-link {
+  color: #fdba2f;
+  font-size: 17px;
+  margin-left: 20px;
+  padding: auto;
+  }
+  .navbar-light .navbar-nav .nav-link {
+  color: black;
+  font-size: 17px;
+  margin-left: 20px;
+  padding: auto;
+  }
+  .navbarDiv:hover   img{
+  filter: invert(100%);
+  background-color: white;
+  }
