@@ -1,0 +1,12 @@
+diff --git a/hirefromus/src/App.css b/hirefromus/src/App.css
+index 74b5e05..55b8d2a 100644
+--- a/hirefromus/src/App.css
++++ b/hirefromus/src/App.css
+@@ -1,6 +1,7 @@
+ .App {
+   text-align: center;
+ }
++/* dsfvfsdas */
+ 
+ .App-logo {
+   height: 40vmin;
